@@ -8,10 +8,10 @@
         }
     ],
     "semanticColors": {
-        "BACKGROUND_PRIMARY": ["#292841"],
-        "BACKGROUND_SECONDARY": ["#1C1B29"],
+        "BACKGROUND_PRIMARY": ["#16161F"],
+        "BACKGROUND_SECONDARY": ["#1A1B27"],
         "BACKGROUND_SECONDARY_ALT": ["#1F202F"],
-        "BACKGROUND_TERTIARY": ["#14131C"],
+        "BACKGROUND_TERTIARY": ["#1A1B27"],
         "BACKGROUND_FLOATING": ["#100F16"],
         "BACKGROUND_MOBILE_PRIMARY": ["#292841"],
         "BACKGROUND_MOBILE_SECONDARY": ["#16161F"],
